@@ -1,0 +1,25 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    width: 100%;
+    background-color: #264653;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row .col img{
+    filter: grayscale(1) brightness(.5);
+    border: none;
+}
+span{
+    color: #E76F51;
+}
+.card{
+   border: 1px solid gray;
+   
+}
+.card-item{
+    margin-right: 30px;
+}
